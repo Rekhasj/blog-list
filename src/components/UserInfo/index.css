@@ -1,0 +1,17 @@
+.user-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-image {
+  height: 50px;
+  width: 50px;
+}
+.user-name {
+  font-size: 15px;
+}
+.user-role {
+  font-size: 10px;
+}
